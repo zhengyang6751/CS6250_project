@@ -41,10 +41,10 @@ pip install -r requirements.txt
 ## Usage
 
 1. Prepare your data in CSV format with 'comments' and 'contains_slash_s' columns
-2. Run the training script:
+2. Run the main script:
 
 ```bash
-python dataset/sarcasm/test.py
+python dataset/sarcasm/main.py
 ```
 
 ## Model Architecture
