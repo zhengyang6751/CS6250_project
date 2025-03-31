@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+*.pptx
+*.csv
+*.pth
+*.pt
+*.bin
+*.ckpt
+
+# OS specific
+.DS_Store
+Thumbs.db 
